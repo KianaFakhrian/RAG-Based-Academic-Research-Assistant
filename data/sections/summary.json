@@ -1,0 +1,64 @@
+[
+  {
+    "paper_id": "P1",
+    "short_name": "DETR",
+    "section_count": 8,
+    "found_sections": [
+      "abstract",
+      "conclusion",
+      "experiments",
+      "front_matter",
+      "introduction",
+      "methodology",
+      "references",
+      "related_work"
+    ]
+  },
+  {
+    "paper_id": "P2",
+    "short_name": "Deformable DETR",
+    "section_count": 8,
+    "found_sections": [
+      "abstract",
+      "conclusion",
+      "experiments",
+      "front_matter",
+      "introduction",
+      "methodology",
+      "references",
+      "related_work"
+    ]
+  },
+  {
+    "paper_id": "P3",
+    "short_name": "Conditional DETR",
+    "section_count": 10,
+    "found_sections": [
+      "abstract",
+      "conclusion",
+      "experiments",
+      "front_matter",
+      "introduction",
+      "methodology",
+      "references",
+      "related_work",
+      "results"
+    ]
+  },
+  {
+    "paper_id": "P4",
+    "short_name": "DAB-DETR",
+    "section_count": 9,
+    "found_sections": [
+      "abstract",
+      "appendix",
+      "conclusion",
+      "experiments",
+      "front_matter",
+      "introduction",
+      "methodology",
+      "references",
+      "related_work"
+    ]
+  }
+]
