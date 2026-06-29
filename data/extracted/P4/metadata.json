@@ -1,0 +1,21 @@
+{
+  "paper_id": "P4",
+  "short_name": "DAB-DETR",
+  "title": "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR",
+  "source_pdf": "data/pdfs/dab_detr.pdf",
+  "parser_engine": "docling",
+  "statistics": {
+    "page_count": 19,
+    "docling_pages": 19,
+    "fallback_page_count": 0,
+    "fallback_pages": [],
+    "table_count": 9,
+    "text_item_count": 507,
+    "markdown_character_count": 61368,
+    "markdown_word_count": 10435
+  },
+  "output_files": {
+    "markdown": "data/extracted/P4/document.md",
+    "structured_json": "data/extracted/P4/document.json"
+  }
+}

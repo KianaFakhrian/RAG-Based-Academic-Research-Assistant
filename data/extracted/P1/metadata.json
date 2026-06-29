@@ -1,0 +1,21 @@
+{
+  "paper_id": "P1",
+  "short_name": "DETR",
+  "title": "End-to-End Object Detection with Transformers",
+  "source_pdf": "data/pdfs/detr.pdf",
+  "parser_engine": "docling",
+  "statistics": {
+    "page_count": 26,
+    "docling_pages": 26,
+    "fallback_page_count": 0,
+    "fallback_pages": [],
+    "table_count": 5,
+    "text_item_count": 426,
+    "markdown_character_count": 66287,
+    "markdown_word_count": 10768
+  },
+  "output_files": {
+    "markdown": "data/extracted/P1/document.md",
+    "structured_json": "data/extracted/P1/document.json"
+  }
+}

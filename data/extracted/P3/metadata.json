@@ -1,0 +1,21 @@
+{
+  "paper_id": "P3",
+  "short_name": "Conditional DETR",
+  "title": "Conditional DETR for Fast Training Convergence",
+  "source_pdf": "data/pdfs/conditional_detr.pdf",
+  "parser_engine": "docling",
+  "statistics": {
+    "page_count": 10,
+    "docling_pages": 10,
+    "fallback_page_count": 0,
+    "fallback_pages": [],
+    "table_count": 4,
+    "text_item_count": 252,
+    "markdown_character_count": 54398,
+    "markdown_word_count": 8367
+  },
+  "output_files": {
+    "markdown": "data/extracted/P3/document.md",
+    "structured_json": "data/extracted/P3/document.json"
+  }
+}
